@@ -1,0 +1,19 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "MY MEAN stack tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/innochid/Meantutorial.git"
+  },
+  "author": "Innocent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/innochid/Meantutorial/issues"
+  },
+  "homepage": "https://github.com/innochid/Meantutorial#readme"
+}
